@@ -4,9 +4,11 @@ Browse around the pages and see what pretty designs you can build with Sitecore
 
 ### Login to Sitecore portal
 
-{% embed url="https://portal.sitecorecloud.io/?organization=org_OPwmJSkBJcNzw9JK" %}
+{% embed url="https://portal.sitecorecloud.io/?organization=org_BbXWUn31tHdEkIhx" %}
 
 <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+
 
 * Top menu - Your organization , links for Home and Admin part of XM Cloud
 * Welcome
@@ -24,11 +26,11 @@ Browse around the pages and see what pretty designs you can build with Sitecore
 
 * Select Open app
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * XM Cloud app with ready made site based on Sync music template
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Refer XM Cloud Documentation for navigation items [https://doc.sitecore.com/xmc/en/users/xm-cloud/sitecore-xm-cloud.html#xm-cloud-homepage](https://doc.sitecore.com/xmc/en/users/xm-cloud/sitecore-xm-cloud.html#xm-cloud-homepage)
@@ -36,7 +38,7 @@ Refer XM Cloud Documentation for navigation items [https://doc.sitecore.com/xmc/
 
 * Select the site -> <mark style="color:$success;">**Page builder**</mark> action
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
